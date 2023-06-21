@@ -1,0 +1,17 @@
+/* 
+    Document   : tablas
+    Created on : 22/11/2016, 12:43:49 PM
+    Author     : Mario Martínez
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+  table tr:last-child td:first-child {
+    border-bottom-left-radius: 10px;
+    }
+
+    table tr:last-child td:last-child {
+        border-bottom-right-radius: 10px;
+    }
+    
+  tr:hover {background-color: #f5f5f5}

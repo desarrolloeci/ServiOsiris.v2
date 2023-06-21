@@ -1,0 +1,22 @@
+/* 
+    Document   : licencias
+    Created on : 6/05/2019, 03:12:59 AM
+    Author     : jersson.salazar
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+#main-container{
+    
+    margin: 150px auto;
+    width: 600px;
+    background-color: orange;
+    
+}
+
+
+.table11{
+    background-color: white;
+    text-align: left;
+    width: 100%;
+}
